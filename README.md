@@ -25,7 +25,7 @@ conda create --name bike-sharing-env python=3.9
 conda activate bike-sharing-env
 jupyter-notebook .
 pip install -r requirements.txt
-
+```
 ## Setup Environment - Shell/Terminal
 ```
 mkdir bike_sharing_analysis
